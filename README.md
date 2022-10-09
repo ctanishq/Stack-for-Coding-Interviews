@@ -54,6 +54,6 @@ The first 2 hours of this course, dealing with core stack concepts is present on
 
 ## [FULL COURSE](http://www.youtube.com/watch?v=zNgAQPlMqdg) ✨
 
-The next 1.5 of this course covers the "Monotonic Stack" concept in detail. Top tier companies ask a lot of questions on this specifically. The entire course is present on my [YouTube channel](https://www.youtube.com/channel/UCj8z8fm1pbVhhpIHZFxFy1Q). Also present here:
+The next 1.5 of this course covers the "Monotonic Stack" concept in detail. Top tier companies ask a lot of questions on this specifically. The entire course is present on my [YouTube channel](https://www.youtube.com/channel/UCj8z8fm1pbVhhpIHZFxFy1Q). Follow the link below:
 
 [![Full Stack data strucure course](https://img.youtube.com/vi/zNgAQPlMqdg/0.jpg)](http://www.youtube.com/watch?v=zNgAQPlMqdg "Stack Data Structure for Coding Interviews | Curated list of 15 Coding Interview Problems")
